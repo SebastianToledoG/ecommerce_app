@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289346200673",
+    "project_id": "eshop-9d539",
+    "storage_bucket": "eshop-9d539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289346200673:android:7c47fa241e858b3cebf620",
+        "android_client_info": {
+          "package_name": "com.sebastiantoledo.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289346200673-v2qfoop2697deaofrpr498q60ekh1q6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_4qbS0uras3V9rEoNytDX_DmQEdOkIbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289346200673-v2qfoop2697deaofrpr498q60ekh1q6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
